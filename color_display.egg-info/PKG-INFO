@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: color-display
+Version: 0.1.0
+Summary: A package to display variables, classes, functions, and data types in different colors
+Home-page: https://github.com/Bax-dev/color_py-package.git
+Author: Bassey Eyo Inyang
+Author-email: basseyeyo991@gmail.com
+License: UNKNOWN
+Description: # Color Display
+        
+        A Python package to display variables, functions, and data types in different colors in the terminal. It allows customizable color schemes and supports a variety of data types.
+        
+        ## Features
+        
+        - Display integers, classes, floats, strings, arrays, and function names in different colors.
+        - Dynamically detect the type of a variable and print it in a color-coded format.
+        - Customizable color schemes.
+        
+        ## Installation
+        
+        ```bash
+        pip install color_display
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
